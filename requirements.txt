@@ -1,0 +1,4 @@
+pydeck
+geopandas
+streamlit
+black
